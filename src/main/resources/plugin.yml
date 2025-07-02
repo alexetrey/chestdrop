@@ -1,0 +1,5 @@
+name: ChestDrop
+version: 1.0
+main: com.chestdrop.ChestDrop
+api-version: 1.19
+description: A plugin that puts mob drops into a chest in your inventory when you kill them. 

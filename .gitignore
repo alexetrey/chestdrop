@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But keep source files and project essentials
+!.gitignore
+!pom.xml
+!README.md
+!src/
+!src/**/*
